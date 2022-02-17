@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Cor-gi or -Corgi-
+- 👀 I’m interested in modding
+- 🌱 I’m currently learning Javascript
